@@ -4,9 +4,9 @@
 
 This project presents an interactive business intelligence dashboard built using Power BI to analyze sales performance, customer behavior, product performance, and revenue trends from the Adventure Works dataset.
 
-The project was completed as part of the **Microsoft Data Analysis and Visualization with Power BI** course offered through Coursera. The Adventure Works dataset was provided as a learning dataset within the course, while the dashboard design, data modeling, visualizations, analysis, and business insights were developed independently as part of the hands-on project activities.
+The project was completed as part of the **Microsoft Data Analysis and Visualization with Power BI**. The Adventure Works dataset was provided as a learning dataset within the course, while the dashboard design, data modeling, visualizations, analysis, and business insights were developed independently as part of the hands-on project activities.
 
-The dashboard demonstrates practical business intelligence skills, including data preparation, data modeling, DAX calculations, dashboard development, and data-driven decision making.
+The dashboard demonstrates practical business intelligence skills, including data preparation, data modeling, DAX calculations, dashboard development, and data driven decision making.
 
 ---
 
@@ -15,7 +15,7 @@ The dashboard demonstrates practical business intelligence skills, including dat
 The main objectives of this project are:
 
 * Analyze overall sales performance and revenue trends.
-* Identify high-performing product categories and subcategories.
+* Identify high performing product categories and subcategories.
 * Understand customer purchasing behavior across different demographics and geographic locations.
 * Monitor order fulfillment performance and operational efficiency.
 * Generate actionable business insights to support decision-making.
@@ -35,7 +35,7 @@ The dataset contains information related to:
 * Order status
 * Geographic information
 
-The dataset is widely used for business intelligence and analytics training because it simulates real-world retail and sales operations.
+The dataset is widely used for business intelligence and analytics training because it simulates real world retail and sales operations.
 
 ---
 
@@ -54,7 +54,7 @@ The dataset is widely used for business intelligence and analytics training beca
 
 ### Page 1 – Sales Analytics Dashboard
 
-This page provides a high-level overview of business performance through key metrics and sales trends.
+This page provides a high level overview of business performance through key metrics and sales trends.
 
 **Visualizations Included:**
 
@@ -92,14 +92,14 @@ This page focuses on customer and product performance analysis.
 ### Product Performance
 
 * **Mountain Bikes** and **Road Bikes** generated the highest revenue among all product categories.
-* **Downhill** was the highest-performing product subcategory.
+* **Downhill** was the highest performing product subcategory.
 * Several subcategories, including Freestyle and Balance, contributed relatively lower revenue compared to other product lines.
 
 ### Customer Analysis
 
 * Customers aged approximately **25–35 years** contributed the largest share of revenue.
 * **USA** represented the largest customer base among all countries.
-* **Samuel (Mexico)** was the highest-value customer, contributing **$11,000** in total purchases.
+* **Samuel (Mexico)** was the highest value customer, contributing **$11,000** in total purchases.
 
 ### Operational Performance
 
@@ -117,13 +117,13 @@ These results suggest opportunities to improve order fulfillment efficiency and 
 
 Review and optimize order processing workflows to reduce the number of orders remaining in processing status and minimize cancellations.
 
-### Prioritize High-Performing Products
+### Prioritize High Performing Products
 
-Focus inventory planning, promotions, and sales strategies on high-performing categories such as Mountain Bikes and Road Bikes, as well as top-performing subcategories like Downhill.
+Focus inventory planning, promotions, and sales strategies on high performing categories such as Mountain Bikes and Road Bikes, as well as top-performing subcategories like Downhill.
 
 ### Strengthen Customer Retention
 
-Develop customer retention programs targeting high-value customers to encourage repeat purchases and increase customer lifetime value.
+Develop customer retention programs targeting high value customers to encourage repeat purchases and increase customer lifetime value.
 
 ### Leverage Customer Insights
 
@@ -131,21 +131,6 @@ Use demographic and geographic customer data to support more targeted marketing 
 
 ---
 
-## Dashboard Preview
-
-### Sales Analytics Dashboard
-
-<p align="center">
-  <img src="Images/dashboard_page1.png" alt="Sales Analytics Dashboard" width="900">
-</p>
-
-### Customer & Product Analytics
-
-<p align="center">
-  <img src="Images/dashboard_page2.png" alt="Customer & Product Analytics Dashboard" width="900">
-</p>
-
----
 
 ## Skills Demonstrated
 
